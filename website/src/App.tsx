@@ -1,4 +1,5 @@
-import { RouterProvider, createBrowserRouter } from 'react-router-dom'
+import { createBrowserRouter } from 'react-router'
+import { RouterProvider } from 'react-router/dom'
 import { AppContext } from 'src/context/app'
 import routes from './router'
 

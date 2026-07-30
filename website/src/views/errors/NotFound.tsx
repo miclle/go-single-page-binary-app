@@ -1,4 +1,4 @@
-import { NavLink } from 'react-router-dom'
+import { NavLink } from 'react-router'
 import { Button } from '@/components/ui/button'
 
 // NotFound is the 404 error page.

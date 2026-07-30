@@ -15,7 +15,7 @@ The backend embeds the frontend build output via `//go:embed`, so production dep
 **Frontend:**
 
 - React 19, TypeScript 6, Vite 8, Tailwind CSS 4
-- React Router v7, React Query v5
+- React Router v8, React Query v5
 - [shadcn/ui](https://ui.shadcn.com/) v4 component style with local primitives
 - [Base UI](https://base-ui.com/) for headless accessible component behavior
 - Vitest 4 for unit testing
@@ -23,7 +23,7 @@ The backend embeds the frontend build output via `//go:embed`, so production dep
 ## Requirements
 
 - Go 1.26+
-- Node.js 22.14+
+- Node.js 22.22+
 - PostgreSQL or MySQL
 - [Task](https://taskfile.dev/) (task runner)
 - `reflex` — file-watching hot reload for `task dev`

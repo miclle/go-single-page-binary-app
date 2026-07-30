@@ -1,4 +1,4 @@
-import type { RouteObject } from 'react-router-dom'
+import type { RouteObject } from 'react-router'
 
 import AppShell from '@/components/app/AppShell'
 import Home from 'src/views/home'
